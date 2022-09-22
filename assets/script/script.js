@@ -1,3 +1,4 @@
+//our global variables
 let timeleft;
 let score;
 let gameStart;
@@ -150,7 +151,7 @@ choicesContainer.addEventListener("click", e =>{
     }  
          
 })
-
+// user input saved to local storage, and can use getItem to put in out appended li
 function savedScores(){
     localStorage.setItem(scoreInput.textContent, document.getElementById("yourInitials").value);
 }
