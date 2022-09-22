@@ -16,7 +16,7 @@
     <h1 id="countDown"> Time:20</h1>
         </header>
         <!--quiz container/ contains the main menue, questions, choices-->
-      <div id="quizContainer">
+      <section id="quizContainer">
         <div id="questionCard">
             <div>
             <h3 id="title">Start your coding quiz</h3>
@@ -26,25 +26,25 @@
            <h3 id="question"></h3>
            <div id="choicesContainer">
            </div>
-        </div>
+        </section>
       </div>
 
  <!-- score page/ users submit their initials here where the input will be saved to local storage-->
- <div id="scoreContainer" class="hide">
+ <section id="scoreContainer" class="hide">
       <h1 id="entername">Enter Initials</h1>
       <h2>Score:   <span id="yourScore">0</span></h2>
       <input id="yourInitials"type="text">
       <button id="submit">SUBMIT</button>
       
-</div>
+</section>
 
 <!--Result Page -->
-    <div id="highScorecontainer" class="hide">
+    <section id="highScorecontainer" class="hide">
     <!-- this is where the saved scores will be appended in a li-->
     <ol id="high-score-list" class="score-list"></ol>
 <!-- when clicked, game can be replayed and timer will restart-->
     <button id="replayButton">REPLAY</button>
-</div>
+    </section>
 
 
      
