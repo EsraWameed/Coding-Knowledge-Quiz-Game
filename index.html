@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Knowledge Quiz</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="assets/css/style.css">
+
+    </head>
+    <body>
+        <header>
+    <h1 id="countDown"> Time:20</h1>
+        </header>
+        <!--quiz container-->
+      <div id="quizContainer">
+        <div id="questionCard">
+            <div>
+            <h3 id="title">Start your coding quiz</h3>
+            <p id="rules">Rules: Correct answers add 5 points to score and wrong answers deduct 5 seconds from timer</p>
+           </div>
+            <button id="startButton"> START</button>
+           <h3 id="question"></h3>
+           <div id="choicesContainer">
+           </div>
+        </div>
+      </div>
+
+ <!-- score page-->
+ <div id="scoreContainer" class="hide">
+      <h1 id="entername">Enter Initials</h1>
+      <h2>Score:   <span id="yourScore">0</span></h2>
+      <input id="yourInitials"type="text">
+      <button id="submit">SUBMIT</button>
+      
+</div>
+
+<!--Result Page -->
+    <div id="highScorecontainer" class="hide">
+    <!-- -->
+    <ol id="high-score-list" class="score-list"></ol>
+
+    <button id="replayButton">REPLAY</button>
+</div>
+
+
+     
+        <script src="assets/script/questions.js" async defer></script>
+        <script src="assets/script/script.js" async defer></script>
+    </body>
+</html>
