@@ -72,7 +72,5 @@
 /*flex for responsiveness*/
 #high-score-list{
     font-size: 27px;
-    display: flex;
-    justify-content: center;
 }
 
