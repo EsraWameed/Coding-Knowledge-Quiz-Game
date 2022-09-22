@@ -45,8 +45,8 @@
 }
 /*pseudo property to improve interactiveness*/
 #choicesContainer button:hover{
-    border: 5px solid red;
-    background-color: #00ff19;
+    border: 10px solid black;
+    background-color: pink;
     padding: 10px;
 }
 
