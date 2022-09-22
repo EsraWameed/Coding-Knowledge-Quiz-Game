@@ -1,6 +1,4 @@
 # Coding Knowledge Quiz
-## Deployed Page
-https://esrawameed.github.io/prework-study-guide/
 
 ## Description
 This app was created to assist students and professionals in reviewing their coding knowledge through answering a variety of different coding related questions and choosing the best fitting answer. Once users click on the start button, the quiz begins and they are presented with the questions and answer options. For each correct answer selection, the user will gain an extra 5 points to their initial score or 0. If the user selects the incorrect choice, 5 seconds will be deducted from the timer. 
