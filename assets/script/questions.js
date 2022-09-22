@@ -7,7 +7,7 @@ let questions = [
 
     {
         question: "what deos html mean?",
-        choices: ["hyper text markup language", "bhdvbjbvdjbsjvd", "cats slide smoothly"],
+        choices: ["hyper text markup language", "Hypo telopathic message language", "None of the above"],
         answer: "hyper text markup language"
     },
 
