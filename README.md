@@ -19,17 +19,17 @@ Users past attempts will be stored in their local storage alongside their initia
 https://esrawameed.github.io/Coding-Knowledge-Quiz-Game/
 ## Laptop View
 ### Image 1
-![Alt text](assets/images/Image1.png "Final Look")
+![Alt text](assets/Images/Image1.png "Final Look")
 ### Image 2
-![Alt text](assets/images/Image2.png "Final Look")
+![Alt text](assets/Images/Image2.png "Final Look")
 ### Image 3
-![Alt text](assets/images/Image3.png "Final Look")
+![Alt text](assets/Images/Image3.png "Final Look")
 ### Image 4
-![Alt text](assets/images/Image4.png "Final Look")
+![Alt text](assets/Images/Image4.png "Final Look")
 ## iPhone View
 ### Image 5
-![Alt text](assets/images/iphone1.png "Final Look")
+![Alt text](assets/Images/iphone1.png "Final Look")
 ### Image 6
-![Alt text](assets/images/iphone2.png "Final Look")
+![Alt text](assets/Images/iphone2.png "Final Look")
 ### Image 7
-![Alt text](assets/images/iphone3.png "Final Look")
+![Alt text](assets/Images/iphone3.png "Final Look")
